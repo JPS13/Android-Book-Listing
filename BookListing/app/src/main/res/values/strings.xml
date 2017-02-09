@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Book Listing</string>
+
+    <!-- Text if no books are found based on query -->
+    <string name="no_books">No books found try a different query.</string>
+
+    <!-- Text if there is no internet connection -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <!-- Text if there is no author -->
+    <string name="no_authors">No Author</string>
+
+    <!-- JSON keys -->
+    <string name="items">items</string>
+    <string name="volumeInfo">volumeInfo</string>
+    <string name="title">title</string>
+    <string name="authors">authors</string>
+    <string name="title_activity_query">QueryActivity</string>
+
+    <!-- Search shadow text -->
+    <string name="hint_text">Enter Search Text</string>
+
+    <!-- Empty search term text -->
+    <string name="empty_search_term">Please Enter A Search Term</string>
+
+    <!-- Search button text -->
+    <string name="button_text">Search</string>
+
+    <!-- Results Label -->
+    <string name="results_activity_label">Search Results</string>
+
+    <!-- Intent extra key for url -->
+    <string name="intent_url_key">URL</string>
+
+    <!-- Encoding Scheme -->
+    <string name="encoding_scheme">UTF-8</string>
+
+</resources>

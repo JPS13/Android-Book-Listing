@@ -1,0 +1,19 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- List item margins -->
+    <dimen name="list_item_horizontal_margin">8dp</dimen>
+    <dimen name="list_item_vertical_margin">4dp</dimen>
+    <dimen name="list_item_padding">8dp</dimen>
+
+    <!-- Title text size -->
+    <dimen name="title_text_size">16dp</dimen>
+
+    <!-- Author text size -->
+    <dimen name="author_text_size">12dp</dimen>
+
+    <!-- Size for internet icon -->
+    <dimen name="internet_icon_size">20dp</dimen>
+</resources>
